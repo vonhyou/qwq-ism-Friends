@@ -2,13 +2,9 @@
 
 你也是会OI的Friends呢！
 
-# 广告！
-乌鲁木齐市一中的同学正在征集OJ名字，详情请见[这里](%E5%BE%81%E5%90%8D%E8%AE%A1%E5%88%92.pdf)！
-
-# qwq教友链集合
-可以查看本md的Raw以获得链接。欢迎发Pull Request来添加自己的网站qwq！
-
-*本列表排名不分先后顺序*
+# 广告�?乌鲁木齐市一中的同学正在征集OJ名字，详情请见[这里](%E5%BE%81%E5%90%8D%E8%AE%A1%E5%88%92.pdf)�?
+# qwq教友链集�?可以查看本md的Raw以获得链接。欢迎发Pull Request来添加自己的网站qwq�?
+*本列表排名不分先后顺�?
 
 - swttc | [swttc'sblog](http://www.swttc.me/)
 - applese | [Ephemeral - CSDN博客](http://blog.csdn.net/effervescence)
@@ -19,11 +15,12 @@
 - RQY | [_rqy - 博客园](http://www.cnblogs.com/y-clever)
 - Margatroid | [Margatroid's Blog](http://margatroid.xyz/)
 - Kamigen | [超时空灰狼菌 - 博客园](https://www.cnblogs.com/shingen)
-- Wahacer | [Wahacer's blogs – 曾经沧海难为水](http://www.wahacer.com/)
+- Wahacer | [Wahacer's blogs �?曾经沧海难为水](http://www.wahacer.com/)
 - cxy | [Ying&CXY's Blog](https://chenxinyucxy.github.io/)
 - HT008 | [HT008的BLOG](http://ht008.pw/)
-- lw uc震惊部部长 | [那一抹落日的橙 - 博客园](https://www.cnblogs.com/Loi-dfkdsmbd/)
+- lw uc震惊部部�?| [那一抹落日的�?- 博客园](https://www.cnblogs.com/Loi-dfkdsmbd/)
 - Youngsc | [Youngsc](http://youngsc.ml/)
+- ������ŵ�۹�ħ��ѧԺ gjc | [lonlyn - ����԰](http://www.cnblogs.com/gjc1124646822/)
 
 **友谊是魔法！** 
 
