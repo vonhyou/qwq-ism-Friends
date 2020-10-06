@@ -13,7 +13,7 @@
 - swttc | [swttc'sblog](http://www.swttc.me/)
 - applese | [Ephemeral - CSDN博客](http://blog.csdn.net/effervescence)
 - 我们相距十万光年 | [我们相距十万光年 | 晨露正葱茏，来日胜景定无穷](http://www.saruka.studio/)
-- Von Hyou | [Page 1 | Vonhyou!!](http://von-hyou.pub/)
+- vonhyou | [Klein Log](https://blog.lenva.tech)
 - Dedsecr | [Dedsecr's Blog](http://dedsecr.ml/)
 - KSkun | [KSkun's Blog | more than OIers and algorithm learners](https://ksmeow.moe/)
 - RQY | [_rqy - 博客园](http://www.cnblogs.com/y-clever)
